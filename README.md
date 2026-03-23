@@ -1,5 +1,5 @@
 # 💫 About Me:
-FULL STACK DEVELOPER | PYTHON DEVELOPER | FRONTEND DEVELOPER
+Python full stack developer || HTML5 || CSS3 | JavaScript || BOOTSTRAP || JQUARY || REACT || PYTHON || MYSQL || Django ||MongoDB
 
 
 ## 🌐 Socials:
